@@ -1,0 +1,14 @@
+body{
+background-color: rgb(157, 201, 201);
+}
+#view{
+    display: none;
+}
+/* .container{
+    background-color: beige;
+    border: 1px solid black;
+    margin-top: 20px;
+} */
+.fa-solid, .fas {
+    color: black;
+  }
